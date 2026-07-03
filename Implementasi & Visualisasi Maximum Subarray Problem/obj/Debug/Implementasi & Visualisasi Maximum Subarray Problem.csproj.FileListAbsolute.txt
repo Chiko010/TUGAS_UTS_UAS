@@ -1,0 +1,10 @@
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\bin\Debug\Implementasi & Visualisasi Maximum Subarray Problem.exe.config
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\bin\Debug\Implementasi & Visualisasi Maximum Subarray Problem.exe
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\bin\Debug\Implementasi & Visualisasi Maximum Subarray Problem.pdb
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi & Visualisasi Maximum Subarray Problem.csproj.AssemblyReference.cache
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi___Visualisasi_Maximum_Subarray_Problem.Form1.resources
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi___Visualisasi_Maximum_Subarray_Problem.Properties.Resources.resources
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi & Visualisasi Maximum Subarray Problem.csproj.GenerateResource.cache
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi & Visualisasi Maximum Subarray Problem.csproj.CoreCompileInputs.cache
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi & Visualisasi Maximum Subarray Problem.exe
+C:\Users\ichik\source\repos\Implementasi & Visualisasi Maximum Subarray Problem\obj\Debug\Implementasi & Visualisasi Maximum Subarray Problem.pdb
